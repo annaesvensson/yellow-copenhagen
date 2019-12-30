@@ -2,7 +2,7 @@ Basic 0.8.6
 ===========
 Example theme for designers.
 
-**TODO:** *Use this extension to make a new theme. It provides a `basic.css` with style sheet, an `extension.ini` with information and a `README.md` with documentation. Start your documentation with the name of your extension, followed by one line of description. Put more text into the sections below. Add a screenshot whenever possible.* 
+**TODO:** *Use this extension to make a new theme. It provides a `basic.css` with style sheet, a `basic-icon.png` with favicon, an `extension.ini` with information and a `README.md` with documentation. Start your documentation with the name of your extension, followed by one line of description. Put more text into the sections below. Add a screenshot whenever possible.* 
 
 <p align="center"><img src="basic-screenshot.png?raw=true" alt="Screenshot"></p>
 
@@ -20,4 +20,4 @@ To uninstall delete the [extension files](extension.ini).
 
 Example Name. [Get support](https://github.com/markseu/yellow-basic/issues).
 
-**TODO:** *Add your name. Change the link to your own repository or website. Review the documentation from the perspective of the user. Users want to reach their goals and the documentation should help do it. The main focus should be on people and their everyday life. Not on technical details.*
+**TODO:** *Add your name. Change the link to your own repository or website.*

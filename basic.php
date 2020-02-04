@@ -1,10 +1,10 @@
 <?php
 // Basic extension, https://github.com/schulle4u/yellow-extension-basic
-// Copyright (c) 2019 Example Name
+// Copyright (c) 2020 Example Name
 // This file may be used and distributed under the terms of the public license.
 
 class YellowBasic {
-    const VERSION = "0.8.6";
+    const VERSION = "0.8.7";
     const TYPE = "theme";
     public $yellow;         //access to API
     

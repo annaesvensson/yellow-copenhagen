@@ -1,5 +1,5 @@
 /* Basic extension, https://github.com/schulle4u/yellow-extension-basic */
-/* Copyright (c) 2019 Example Name */
+/* Copyright (c) 2020 Example Name */
 /* This file may be used and distributed under the terms of the public license. */
 
 html, body, div, form, pre, span, tr, th, td, img {
@@ -216,99 +216,8 @@ a:hover {
 .navigation li a.active:hover {
     color: #4183c4;
 }
-.navigation-tree {
-    display: block;
-    float: right;
-}
-.navigation-tree {
-    margin-top: 1em;
-    margin-bottom: 1em;
-    line-height: 2;
-    font-weight: 500;
-}
-.navigation-tree a {
-    color: #333;
-    text-decoration: none;
-    padding: 0 0.3em;
-}
-.navigation-tree a:hover {
-    color: #4183c4;
-    text-decoration: none;
-}
-.navigation-tree ul {
-    margin: 0 -0.3em;
-    padding: 0;
-    list-style: none;
-}
-.navigation-tree li {
-    display: inline;
-}
-.navigation-tree ul li {
-    display: inline-block;
-    position: relative;
-    cursor: pointer;
-    margin: 0;
-}
-.navigation-tree ul li ul {
-    padding: 0.3em;
-    position: absolute;
-    width: 13em;
-    background: #fff;
-    z-index: 100;
-    display: none;
-}
-.navigation-tree ul li ul {
-    border: 1px solid #bbb;
-    border-radius: 4px;
-    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.2);
-}
-.navigation-tree ul li ul li {
-    display: block;
-    font-weight: normal;
-}
-.navigation-tree > ul > li:hover > ul {
-    display: block;
-}
 .navigation-banner {
     clear: both;
-}
-.navigation-search {
-    padding: 0.5em 0;
-}
-.navigation-search .search-form {
-    position: relative;
-}
-.navigation-search .search-text {
-    font-family: inherit;
-    font-size: inherit;
-    font-weight: inherit;
-}
-.navigation-search .search-text {
-    padding: 0.5em;
-    border: 1px solid #eee;
-    border-radius: 4px;
-    width: 100%;
-    box-sizing: border-box;
-}
-.navigation-search .search-text {
-    background-color: #fff;
-    background-image: linear-gradient(to bottom, #fff, #fff);
-}
-.navigation-search .search-button {
-    position: absolute;
-    top: 0;
-    right: 0;
-}
-.navigation-search .search-button {
-    font-family: inherit;
-    font-size: inherit;
-    font-weight: inherit;
-}
-.navigation-search .search-button {
-    margin: 5px;
-    padding: 0.3em;
-    border: none;
-    background-color: transparent;
 }
 
 /* Footer */
@@ -324,11 +233,6 @@ a:hover {
     color: #4183c4;
     text-decoration: underline;
 }
-.footer .siteinfo a.language img {
-    vertical-align: middle;
-    margin-top: -5px;
-    margin-right: 0.75em;
-}
 .footer .siteinfo-left {
     float: left;
 }
@@ -336,33 +240,6 @@ a:hover {
     float: right;
 }
 .footer .siteinfo-banner {
-    clear: both;
-}
-
-/* Sidebar */
-
-.with-sidebar .main {
-    margin-right: 280px;
-}
-.with-sidebar .sidebar {
-    float: right;
-    width: 208px;
-    margin-top: 3.8em;
-    padding: 10px;
-    overflow: hidden;
-}
-.with-sidebar .sidebar {
-    border: solid 1px #eee;
-    border-radius: 3px;
-    font-size: 13px;
-}
-.with-sidebar .sidebar .search-form input {
-    width: 100%;
-    box-sizing: border-box;
-}
-.with-sidebar .content:after {
-    content: "";
-    display: table;
     clear: both;
 }
 
@@ -469,9 +346,9 @@ a:hover {
     color: #fff;
 }
 
-@media screen and (min-width: 62em) {
+@media screen and (min-width: 57em) {
     body {
-        width: 62em;
+        width: 55em;
         margin: 1em auto;
     }
 }
@@ -498,27 +375,16 @@ a:hover {
         border: 0;
     }
     .header .sitename,
-    .navigation,
-    .navigation-tree {
+    .navigation {
         float: none;
     }
     .header .sitename-logo {
         width: 24px;
         height: 24px;
     }
-    .navigation,
-    .navigation-tree {
+    .navigation {
         margin-top: 0.5em;
         margin-bottom: 0.5em;
-    }
-    .navigation-search {
-        padding-bottom: 1em;
-    }
-    .with-sidebar .main {
-        margin-right: 0;
-    }
-    .with-sidebar .sidebar {
-        display: none;
     }
 }
 @media print {

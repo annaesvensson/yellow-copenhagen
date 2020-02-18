@@ -21,3 +21,8 @@ To uninstall delete the [extension files](extension.ini).
 Example Name. [Get support](https://github.com/schulle4u/yellow-extension-basic/issues).
 
 **TODO:** *Add your name. Change the link to your own repository or website.*
+
+<p>
+<a href="README-de.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-extensions/master/features/help/language-de.png" width="15" height="15" alt="Deutsch">&nbsp; Deutsch</a>&nbsp;
+<a href="README.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-extensions/master/features/help/language-en.png" width="15" height="15" alt="English">&nbsp; English</a>&nbsp;
+</p>

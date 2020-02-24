@@ -4,7 +4,7 @@ Beispiel-Theme für Designer.
 
 **TODO:** *Verwende diese Erweiterung zum Erstellen eines neuen Themes. Sie enthält die Dateien `basic.css` mit dem Style-Sheet, das Favicon `basic-icon.png`, `extension.ini` mit Metadaten sowie `README.md` als Dokumentationsvorlage. Beginne die Dokumentation mit dem Namen deiner Erweiterung, gefolgt von einer einzeiligen Beschreibung. In den unteren Sektionen ist Platz für weiteren Text. Falls möglich, füge ein Bildschirmfoto hinzu.* 
 
-<p align="center"><img src="basic-screenshot.png?raw=true" alt="Screenshot"></p>
+<p align="center"><img src="basic-screenshot.png?raw=true" width="795" height="836" alt="Screenshot"></p>
 
 ## Wie man diese Erweiterung installiert
 

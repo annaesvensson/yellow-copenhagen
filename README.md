@@ -1,4 +1,4 @@
-Basic 0.8.7
+Basic 0.8.8
 ===========
 Example theme for designers.
 

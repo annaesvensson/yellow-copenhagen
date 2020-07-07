@@ -6,19 +6,15 @@ Example theme for designers.
 
 <p align="center"><img src="basic-screenshot.png?raw=true" width="795" height="836" alt="Screenshot"></p>
 
-## How to install extension
+## Installation
 
-1. [Download and install Datenstrom Yellow](https://github.com/datenstrom/yellow/).
-2. [Download extension](https://github.com/schulle4u/yellow-extension-basic/archive/master.zip). If you are using Safari, right click and select 'Download file as'.
-3. Copy `basic.zip` into your `system/extensions` folder.
+[Download extension](https://github.com/schulle4u/yellow-extension-basic/archive/master.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
-To uninstall delete the [extension files](extension.ini).
-
-**TODO:** *Change the second link to your own repository.*
+**TODO:** *Change the link to your own repository.*
 
 ## Designer
 
-Example Name. [Get support](https://github.com/schulle4u/yellow-extension-basic/issues).
+Example Name. [Get help](https://github.com/schulle4u/yellow-extension-basic/issues).
 
 **TODO:** *Add your name. Change the link to your own repository or website. [Publish your extension](https://github.com/datenstrom/yellow-extensions/tree/master/features/release) in the official repository.*
 

@@ -6,19 +6,15 @@ Beispiel-Theme für Designer.
 
 <p align="center"><img src="basic-screenshot.png?raw=true" width="795" height="836" alt="Screenshot"></p>
 
-## Wie man diese Erweiterung installiert
+## Installation
 
-1. [Datenstrom Yellow herunterladen und installieren](https://github.com/datenstrom/yellow/).
-2. [Erweiterung herunterladen](https://github.com/schulle4u/yellow-extension-basic/archive/master.zip). Falls du Safari verwendest, rechtsklicke und wähle 'Verknüpfte Datei laden unter'.
-3. Kopiere `master.zip ` in dein `system/extensions`-Verzeichnis.
+[Erweiterung herunterladen](https://github.com/schulle4u/yellow-extension-basic/archive/master.zip) und die Zip-Datei in dein `system/extensions`-Verzeichnis kopieren. Rechtsklick bei Safari.
 
-Zum Deinstallieren lösche einfach die [Erweiterungsdateien](extension.ini).
-
-**TODO:** *Ändere den zweiten Link, sodass er auf dein eigenes Repository verweist.*
+**TODO:** *Ändere den Link, sodass er auf dein eigenes Repository verweist.*
 
 ## Designer
 
-Beispielname. [Support finden](https://github.com/schulle4u/yellow-extension-basic/issues).
+Beispielname. [Hilfe finden](https://github.com/schulle4u/yellow-extension-basic/issues).
 
 **TODO:** *Gib deinen Namen an. Ändere den Link, sodass er auf dein eigenes Repository oder deine eigene Webseite verweist. [Veröffentliche deine Erweiterung](https://github.com/datenstrom/yellow-extensions/blob/master/features/release/README-de.md) im offiziellen Repository.*
 

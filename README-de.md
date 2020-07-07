@@ -10,7 +10,7 @@ Beispiel-Theme für Designer.
 
 [Erweiterung herunterladen](https://github.com/schulle4u/yellow-extension-basic/archive/master.zip) und die Zip-Datei in dein `system/extensions`-Verzeichnis kopieren. Rechtsklick bei Safari.
 
-**TODO:** *Ändere den Link, sodass er auf dein eigenes Repository verweist.*
+**TODO:** *Ändere den Link, sodass er auf dein eigenes Repository verweist. Erwähne auch die von dir verwendeten Drittanbieter-Dienste und Bibliotheken.*
 
 ## Designer
 

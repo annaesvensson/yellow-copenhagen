@@ -16,7 +16,7 @@ Beispiel-Theme für Designer.
 
 Beispielname. [Hilfe finden](https://github.com/schulle4u/yellow-extension-basic/issues).
 
-**TODO:** *Gib deinen Namen an. Ändere den Link, sodass er auf dein eigenes Repository oder deine eigene Webseite verweist. [Veröffentliche deine Erweiterung](https://github.com/datenstrom/yellow-extensions/blob/master/features/release/README-de.md) im offiziellen Repository.*
+**TODO:** *Gib deinen Namen an. Ändere den Link, sodass er auf dein eigenes Repository oder deine eigene Webseite verweist. [Veröffentliche deine Erweiterung](https://github.com/datenstrom/yellow-extensions/blob/master/features/publish/README-de.md).*
 
 <p>
 <a href="README-de.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-extensions/master/features/help/language-de.png" width="15" height="15" alt="Deutsch">&nbsp; Deutsch</a>&nbsp;

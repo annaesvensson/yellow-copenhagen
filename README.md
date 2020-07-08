@@ -16,7 +16,7 @@ Example theme for designers.
 
 Example Name. [Get help](https://github.com/schulle4u/yellow-extension-basic/issues).
 
-**TODO:** *Add your name. Change the link to your own repository or website. [Publish your extension](https://github.com/datenstrom/yellow-extensions/tree/master/features/release) in the official repository.*
+**TODO:** *Add your name. Change the link to your own repository or website. [Publish your extension](https://github.com/datenstrom/yellow-extensions/tree/master/features/publish).*
 
 <p>
 <a href="README-de.md"><img src="https://raw.githubusercontent.com/datenstrom/yellow-extensions/master/features/help/language-de.png" width="15" height="15" alt="Deutsch">&nbsp; Deutsch</a>&nbsp;

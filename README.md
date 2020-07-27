@@ -2,7 +2,7 @@ Basic 0.8.8
 ===========
 Example theme for designers.
 
-**TODO:** *Use this extension to make a new theme. It provides a `basic.css` with style sheet, a `basic-icon.png` with favicon, an `extension.ini` with information and a `README.md` with documentation. Start your documentation with the name of your extension, followed by one line of description. Put more text into the sections below. Add a screenshot whenever possible.* 
+**TODO:** *Use this extension to make a new theme. It provides a `basic.css` with style sheet, a `basic.png` with favicon, an `extension.ini` with information and a `README.md` with documentation. Start your documentation with the name of your extension, followed by one line of description. Put more text into the sections below. Add a screenshot whenever possible.* 
 
 <p align="center"><img src="basic-screenshot.png?raw=true" width="795" height="836" alt="Screenshot"></p>
 

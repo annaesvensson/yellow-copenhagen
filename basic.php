@@ -5,7 +5,6 @@
 
 class YellowBasic {
     const VERSION = "0.8.8";
-    const TYPE = "theme";
     public $yellow;         //access to API
     
     // Handle initialisation
@@ -19,7 +18,7 @@ class YellowBasic {
         if ($action=="install") {
             $this->yellow->system->save($fileName, array("theme" => "basic"));
         } elseif ($action=="uninstall" && $this->yellow->system->get("theme")=="basic") {
-            $theme = reset(array_diff($this->yellow->extensions->getExtensions("theme"), array("basic")));
+            $theme = reset(array_diff($this->yellow->system->getValues("theme"), array("basic")));
             $this->yellow->system->save($fileName, array("theme" => $theme));
         }
     }

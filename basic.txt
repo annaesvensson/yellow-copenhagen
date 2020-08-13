@@ -1,0 +1,10 @@
+# Basic extension, https://github.com/schulle4u/yellow-extension-basic
+
+Language: en
+BasicDescription: Example theme for designers.
+
+Language: de
+BasicDescription: Beispielthema für Designer.
+
+Language: fr
+BasicDescription: Exemple de thème pour les concepteurs.

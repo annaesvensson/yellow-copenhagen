@@ -17,7 +17,7 @@ The following files can be configured:
 
 **TODO:** *Change the link to your own repository. Mention third party libraries and web services that you use.*
 
-## Developer
+## Designer
 
 Example. [Get help](https://github.com/schulle4u/yellow-extension-basic/issues).
 

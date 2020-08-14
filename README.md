@@ -4,12 +4,11 @@ Example theme for designers.
 
 <p align="center"><img src="basic-screenshot.png?raw=true" width="795" height="836" alt="Screenshot"></p>
 
-## Settings
+## How to customise a theme
 
-The following files can be configured:
+All theme files are stored in your `system/themes` folder. All layout files are stored in your `system/layouts` folder. You can edit these files. Your changes will not be overwritten when the website is updated.
 
-`system/themes/basic.css` = CSS file of the theme  
-`system/themes/basic.png` = icon of the theme  
+**TODO:** *Describe how your extension can be adjusted. Write multiple howto sections, if necessary.*
 
 ## Installation
 
@@ -21,6 +20,6 @@ The following files can be configured:
 
 Example. [Get help](https://github.com/schulle4u/yellow-extension-basic/issues).
 
-Use this extension to make a new theme. Have a look inside your `system/extensions` folder, here are all extension files. You can edit the source code in `basic.php`, which changes the website's default theme. You can edit the language settings in `basic.txt`. Every repository has a file called `extension.ini` with extension settings.
+Use this extension to make a new theme. Have a look inside your `system/extensions` folder, here are all extension files. You can edit the source code in `basic.php`, which takes care of changing the system settings. You can edit the language settings in `basic.txt`.
 
 **TODO:** *Change the link to your own repository. Review your extension from the perspective of the user. Users want to reach their goals and the documentation should help them do it. The main focus should be on people and their everyday life. Not on technical details. [Learn more about publishing extensions](https://github.com/datenstrom/yellow-extensions/tree/master/source/publish).*

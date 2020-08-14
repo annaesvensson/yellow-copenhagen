@@ -22,4 +22,4 @@ All theme files are stored in your `system/themes` folder. All layout files are 
 
 Example. [Get help](https://datenstrom.se/yellow/help/).
 
-**TODO:** *Change the link to your own repository. Review your extension from the perspective of the user. Users want to reach their goals and the documentation should help them do it. The main focus should be on people and their everyday life. Not on technical details. [Learn more about publishing extensions](https://github.com/datenstrom/yellow-extensions/tree/master/source/publish).*
+**TODO:** *Change the link to your own repository. Review your documentation from the perspective of the user. Users want to reach their goals and the documentation should help them do it. The main focus should be on people and their everyday life. Not on technical details. [Learn more about publishing extensions](https://github.com/datenstrom/yellow-extensions/tree/master/source/publish).*

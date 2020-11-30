@@ -4,6 +4,8 @@ Example theme for designers.
 
 <p align="center"><img src="basic-screenshot.png?raw=true" width="795" height="836" alt="Screenshot"></p>
 
+**TODO:** *Make your own theme based on this example. Have a look inside your `system/extensions` folder. Edit files that start with `basic`. You can edit the language settings in file `basic.txt`. You can put additional files into your `system/themes` folder and `system/layouts` folder. [Learn more about the API](https://datenstrom.se/yellow/help/api-for-developers).*
+
 ## How to customise a theme
 
 All theme files are stored in your `system/themes` folder. All layout files are stored in your `system/layouts` folder. You can edit these files. Your changes will not be overwritten when the website is updated.
@@ -17,8 +19,6 @@ All theme files are stored in your `system/themes` folder. All layout files are 
 **TODO:** *Change the link to your own repository. Mention third party libraries and web services that you use.*
 
 ## Designer
-
-**TODO:** *Make your own extension based on this example. Have a look inside your `system/extensions` folder. Edit files that start with `basic`. You can edit the language settings in file `basic.txt`. You can put additional files into your `system/layouts` folder and `system/themes` folder. [Learn more about the API](https://datenstrom.se/yellow/help/api-for-developers).*
 
 Example. [Get help](https://datenstrom.se/yellow/help/).
 

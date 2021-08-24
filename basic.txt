@@ -1,10 +1,10 @@
 # Basic extension, https://github.com/schulle4u/yellow-extension-basic
 
 Language: en
-BasicDescription: Example theme for designers.
+BasicDescription: Example theme for Datenstrom Yellow.
 
 Language: de
-BasicDescription: Beispielthema für Designer.
+BasicDescription: Beispielthema für Datenstrom yellow.
 
 Language: fr
-BasicDescription: Exemple de thème pour les concepteurs.
+BasicDescription: Exemple de thème pour Datenstrom Yellow.

@@ -4,7 +4,7 @@ Language: en
 BasicDescription: Example theme for Datenstrom Yellow.
 
 Language: de
-BasicDescription: Beispielthema für Datenstrom yellow.
+BasicDescription: Beispielthema für Datenstrom Yellow.
 
 Language: sv
 BasicDescription: Exempel-tema för Datenstrom Yellow.

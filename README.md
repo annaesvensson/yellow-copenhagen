@@ -14,7 +14,7 @@ All theme files are stored in your `system/themes` folder. All layout files are 
 
 ## Installation
 
-[Download extension](https://github.com/schulle4u/yellow-extension-basic/archive/master.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+[Download extension](https://github.com/schulle4u/yellow-extension-basic/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
 **TODO:** *Change the link to your own repository. Mention third party libraries and web services that you use.*
 

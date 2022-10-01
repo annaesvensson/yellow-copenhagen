@@ -14,7 +14,7 @@ All theme files are stored in your `system/themes` folder. All layout files are 
 
 ## Installation
 
-[Download extension](https://github.com/schulle4u/yellow-extension-basic/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+[Download extension](https://github.com/schulle4u/yellow-basic/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
 **TODO:** *Change the link to your own repository. Mention third party libraries and web services that you use.*
 
@@ -22,4 +22,4 @@ All theme files are stored in your `system/themes` folder. All layout files are 
 
 Example. [Get help](https://datenstrom.se/yellow/help/).
 
-**TODO:** *Change the link to your own repository. Review your documentation from the perspective of the user. Help users to reach their goals. The main focus should be on people and their everyday life. Not on technical details. [Learn more about making and publishing extensions](https://github.com/datenstrom/yellow-extensions/tree/master/source/publish).*
+**TODO:** *Change the link to your own repository. Review your documentation from the perspective of the user. Help users to reach their goals. The main focus should be on people and their everyday life. Not on technical details. [Learn more about making and publishing extensions](https://github.com/datenstrom/yellow-extensions/tree/main/source/publish).*

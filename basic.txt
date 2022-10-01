@@ -1,4 +1,4 @@
-# Basic extension, https://github.com/schulle4u/yellow-extension-basic
+# Basic extension, https://github.com/schulle4u/yellow-basic
 
 Language: en
 BasicDescription: Example theme for Datenstrom Yellow.

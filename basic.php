@@ -1,5 +1,5 @@
 <?php
-// Basic extension, https://github.com/schulle4u/yellow-extension-basic
+// Basic extension, https://github.com/schulle4u/yellow-basic
 
 class YellowBasic {
     const VERSION = "0.8.15";

@@ -1,8 +1,10 @@
+<p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
+
 # Copenhagen 0.8.13
 
- Copenhagen is a beautiful theme.
+Copenhagen is a beautiful theme.
 
-<p align="center"><img src="basic-screenshot.png?raw=true" alt="Screenshot"></p>
+<p align="center"><img src="copenhagen-screenshot.png?raw=true" alt="Screenshot"></p>
 
 ## How to customise a theme
 

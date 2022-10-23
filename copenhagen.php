@@ -2,7 +2,7 @@
 // Copenhagen extension, https://github.com/annaesvensson/yellow-copenhagen
 
 class YellowCopenhagen {
-    const VERSION = "0.8.13";
+    const VERSION = "0.8.14";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -16,8 +16,7 @@ class YellowCopenhagen {
         if ($action=="install") {
             $this->yellow->system->save($fileName, array("theme" => "copenhagen"));
         } elseif ($action=="uninstall" && $this->yellow->system->get("theme")=="copenhagen") {
-            $theme = reset(array_diff($this->yellow->system->getValues("theme"), array("copenhagen")));
-            $this->yellow->system->save($fileName, array("theme" => $theme));
+            $this->yellow->system->save($fileName, array("theme" => $this->yellow->system->getDifferent("theme")));
         }
     }
 }

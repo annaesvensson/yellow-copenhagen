@@ -6,15 +6,15 @@ Copenhagen är ett vackert tema.
 
 <p align="center"><img src="copenhagen-screenshot.png?raw=true" alt="Screenshot"></p>
 
+## Hur man installerar ett tillägg
+
+[Ladda ner ZIP-filen](https://github.com/annaesvensson/yellow-copenhagen/archive/main.zip) och kopiera den till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
+
 ## Hur man anpassar ett tema
 
 Alla temafiler finns i `system/themes` mappen. Alla layoutfiler finns i `system/layouts` mappen. Du kan redigera dessa filer. Dina ändringar kommer inte att skrivas över när webbplatsen uppdateras.
 
 Standardtemat definieras i filen `system/extensions/yellow-system.ini`. Ett annat tema kan definieras i [sidinställningarna](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md#inställningar-page) högst upp på varje sida, till exempel `Theme: copenhagen`. [Läs mer om teman](https://datenstrom.se/sv/yellow/help/how-to-customise-a-theme).
-
-## Installation
-
-[Ladda ner tillägg](https://github.com/annaesvensson/yellow-copenhagen/archive/main.zip) och kopiera ZIP-fil till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
 
 ## Formgivare
 

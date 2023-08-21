@@ -2,7 +2,7 @@
 // Copenhagen extension, https://github.com/annaesvensson/yellow-copenhagen
 
 class YellowCopenhagen {
-    const VERSION = "0.8.14";
+    const VERSION = "0.8.15";
     public $yellow;         // access to API
     
     // Handle initialisation

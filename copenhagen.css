@@ -6,9 +6,8 @@
     --bg: #fff;
     --table-bg: #f8f8f8;
     --code-bg: #f7f7f7;
-    --notice1-bg: #fffbf0;
-    --notice2-bg: #fdf0f0;
-    --notice3-bg: #f0f8fe;
+    --important-bg: #f0f8fe;
+    --note-bg: #fffbf0;
     --heading: #333;
     --text: #333;
     --code: #666;
@@ -16,9 +15,8 @@
     --link-active: #333;
     --blockquote: #777;
     --blockquote-accent: #ddd;
-    --notice1-accent: #fb0;
-    --notice2-accent: #d00;
-    --notice3-accent: #08e;
+    --important-accent: #08e;
+    --note-accent: #fb0;
     --separator: #ddd;
     --border: #bbb;
     --font: -apple-system, Roboto, Helvetica, sans-serif;
@@ -187,26 +185,17 @@ a:hover {
     border-left: 4px solid var(--blockquote-accent);
     color: var(--blockquote);
 }
-.content .notice1 {
+.content .important {
     margin: 1em 0;
     padding: 10px 1em;
-    background-color: var(--notice1-bg);
-    border-left: 4px solid var(--notice1-accent);
+    background-color: var(--important-bg);
+    border-left: 4px solid var(--important-accent);
 }
-.content .notice2 {
+.content .note {
     margin: 1em 0;
     padding: 10px 1em;
-    background-color: var(--notice2-bg);
-    border-left: 4px solid var(--notice2-accent);
-}
-.content .notice3,
-.content .notice4,
-.content .notice5,
-.content .notice6 {
-    margin: 1em 0;
-    padding: 10px 1em;
-    background-color: var(--notice3-bg);
-    border-left: 4px solid var(--notice3-accent);
+    background-color: var(--note-bg);
+    border-left: 4px solid var(--note-accent);
 }
 .content ul, .content ol {
     padding-left: 2em;

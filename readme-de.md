@@ -1,8 +1,6 @@
-<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a> &nbsp; <a href="readme-sv.md">Svenska</a></p>
-
 # Copenhagen 0.9.5
 
-Copenhagen ist ein schönes Theme.
+Copenhagen ist ein schönes Theme. Entworfen von Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Screenshot"></p>
 
@@ -16,6 +14,4 @@ Du kannst das Aussehen deiner Webseite mit HTML und CSS anpassen. Alle HTML-Date
 
 Das Standard-Theme wird in der Datei `system/extensions/yellow-system.ini` festgelegt. Ein anderes Theme lässt sich in den [Seiteneinstellungen](https://github.com/annaesvensson/yellow-core/tree/main/readme-de.md#einstellungen-seite) ganz oben auf jeder Seite festlegen, zum Beispiel `Theme: copenhagen`.
 
-## Designer
-
-Anna Svensson. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
+Hast du Fragen? [Hilfe finden](https://datenstrom.se/de/yellow/help/).

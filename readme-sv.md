@@ -2,7 +2,7 @@
 
 Copenhagen är ett vackert tema. Designad av Anna Svensson.
 
-<p align="center"><img src="screenshot.png" alt="Screenshot"></p>
+<p align="center"><img src="screenshot.png" alt="Screenshot" /></p>
 
 ## Hur man installerar ett tillägg
 

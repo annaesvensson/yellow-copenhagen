@@ -2,7 +2,7 @@
 
 Copenhagen ist ein schönes Theme. Entworfen von Anna Svensson.
 
-<p align="center"><img src="screenshot.png" alt="Screenshot"></p>
+<p align="center"><img src="screenshot.png" alt="Screenshot" /></p>
 
 ## Wie man eine Erweiterung installiert
 

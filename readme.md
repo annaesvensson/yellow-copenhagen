@@ -1,4 +1,4 @@
-# Copenhagen 0.9.5
+# Copenhagen 0.9.6
 
 Copenhagen is a beautiful theme. Designed by Anna Svensson.
 
